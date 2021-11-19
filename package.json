@@ -1,0 +1,26 @@
+{
+    "name": "elemkahtheme",
+    "displayName": "ElemkahTheme",
+    "description": "Elemkah",
+    "version": "0.0.1",
+    "publisher": "kahlem",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Elemkah/elemkahtheme_vsc.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ElemkahDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ElemkahDark-color-theme.json"
+            }
+        ]
+    }
+}
