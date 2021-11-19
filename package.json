@@ -22,5 +22,6 @@
                 "path": "./themes/ElemkahDark-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "files/icon.png"
 }
